@@ -1,0 +1,11 @@
+1) Place the script in a directory containing the files that you want to modify
+
+2) Ensure that the command prompt is prompted in the directory in which you are modifiying the file. You can do this by:
+- Hold "Shift" then "Right-Click" on the DIRECTORY that your files and your script is in. For example, if the script is inside the "Script" directory, you would hold shift and then right click on that folder
+- A pop up will open and you should select "Open command window here"
+
+3) To execute the script, type: "ruby directory.rb [insert the directory name here]"
+
+4) Follow the instructions in the command prompt
+
+5) If you need to QUIT abruptly or you made a mistake, hit 'ctrl+c' which will remove you from the session without saving any changes

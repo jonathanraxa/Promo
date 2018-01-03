@@ -1,0 +1,11 @@
+THIS IS HECKNO 2 in whooWHOO! 2
+
+BADBOY
+
+promo=AWESOME
+
+name=promo value="BADBOY">
+
+promo=AWESOME
+
+<li>Use PromoCode <!--promocode-->AWESOME for reduced rates</li>
